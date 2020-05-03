@@ -44,8 +44,7 @@ html, body {
   text-shadow: 1px 1px 10px #000;
   padding-bottom: 1rem;
 }
-.carousel-caption h6 {
-  font-size: 100%;
+.carousel-caption h5 {
   font-weight: 500;
   text-shadow: 1px 1px 10px #000;
   padding-bottom: 1rem;
@@ -150,8 +149,8 @@ footer {
   font-weight: 400;
   padding-bottom: .2rem;
 }
-.carousel-caption h6 {
-  font-size: 80%;
+.carousel-caption h5 {
+  font-size: 76%;
   font-weight: 400;
   padding-bottom: .2rem;
 }
@@ -177,7 +176,7 @@ footer {
 .carousel-caption h3 {
   font-size: 120%;
 }
-.carousel-caption h6 {
+.carousel-caption h5 {
   font-size: 60%;
 }
 .carousel-caption .btn {
