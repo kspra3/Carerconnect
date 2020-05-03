@@ -26,6 +26,7 @@ html, body {
 .carousel-inner2 img {
   width: 75%;
   height: 100%;
+  opacity: 0.7;
 }
 .carousel-caption {
   position: absolute;
@@ -39,6 +40,11 @@ html, body {
 }
 .carousel-caption h3 {
   font-size: 200%;
+  font-weight: 500;
+  text-shadow: 1px 1px 10px #000;
+  padding-bottom: 1rem;
+}
+.carousel-caption h6 {
   font-weight: 500;
   text-shadow: 1px 1px 10px #000;
   padding-bottom: 1rem;
